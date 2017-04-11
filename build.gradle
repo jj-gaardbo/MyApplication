@@ -18,6 +18,6 @@ allprojects {
     }
 }
 
-task clean(type: Delete) {//test note
+task clean(type: Delete) {//test notejdksngkjndskjng
     delete rootProject.buildDir
 }
